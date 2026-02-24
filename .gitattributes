@@ -1,0 +1,5 @@
+*.html text
+*.js text
+*.mem binary
+*.data binary
+*.wasm binary
